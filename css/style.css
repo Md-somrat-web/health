@@ -40,3 +40,46 @@ header ul li a.active {
   border-radius: 46px;
   padding: 8px 20px;
 }
+/* header end */
+/* banner start */
+.text {
+  color: #fff;
+  max-width: 600px;
+}
+.text h1 {
+  font-size: 78px;
+  width: 900px;
+  font-style: italic;
+  font-weight: 900;
+}
+.banner span {
+  font-weight: 400;
+  font-style: italic;
+}
+.btn {
+  padding: 16px 40px;
+  border-radius: 42px;
+  border: none;
+  background-color: #e6533c;
+  font-weight: 600;
+  font-size: 18px;
+  color: #fff;
+  margin-right: 14px;
+}
+.btn2 {
+  padding: 16px 40px;
+  border-radius: 42px;
+  border: none;
+  background-color: transparent;
+  color: #fff;
+  font-weight: 600;
+  font-size: 18px;
+  border: solid 1px #fff;
+}
+.banner {
+  display: flex;
+  padding: 0 190px;
+  justify-content: space-between;
+}
+
+/* banner end */
